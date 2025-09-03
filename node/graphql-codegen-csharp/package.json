@@ -1,5 +1,5 @@
 {
-  "name": "squidex-graphql-codegen-csharp",
+  "name": "graphql-codegen-csharp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
